@@ -1,3 +1,21 @@
+QuizNOW<br>
+* [Ogólne informacje](#ogólne-informacje)
+* [Technologie](#technologie)
+* [Instalacja](#Instalacja)
+* [Zakończenie](#Zakonczenie)
+
+## Informacje ogólne
+<details>
+   <summary>Kliknij tutaj aby zobaczyć inforamcje ogólne o <b>QuizNOW</b></summary><br>
+   <p>QuizNOW to aplikacja do nauki języka Java poprzez interaktywne quizy o trzech różnych poziomach trudności. Niezależnie od tego, czy jesteś początkującym programistą, czy doświadczonym deweloperem, QuizNOW oferuje coś dla każdego.</p>
+</details>
+
+## Technologie
+<ul>
+   <li>JAVA</li>
+   <li>Java Collections Framework</li>
+</ul>
+
 <--------QuizNOW------->
 
 QuizNOW to aplikacja do nauki języka Java poprzez interaktywne quizy o trzech różnych poziomach trudności. Niezależnie od tego, czy jesteś początkującym programistą, czy doświadczonym deweloperem, QuizNOW oferuje coś dla każdego.
