@@ -12,9 +12,30 @@ QuizNOW<br>
 
 ## Technologie
 <ul>
-   <li>JAVA</li>
+   <li>Java</li>
    <li>Java Collections Framework</li>
 </ul>
+
+## Instalacja
+1. Pobierz Javę:
+
+   -Otwórz przeglądarkę internetową i odwiedź oficjalną stronę Java SE Downloads.
+
+   -Pobierz najnowszą wersję Javy (Java Development Kit - JDK).
+  
+3. Uruchom Instalator:
+
+   -Po pobraniu uruchom pobrany plik instalacyjny.
+
+   -Postępuj zgodnie z instrukcjami na ekranie.
+
+3. Sprawdź Instalację:
+
+   -Otwórz wiersz poleceń i wpisz java -version oraz javac -version, aby upewnić się, że Java została pomyślnie zainstalowana.
+   
+4. Uruchom aplikację:
+
+   -Uruchom plik z rozszerzeniem .jar w głównym folderze.
 
 <--------QuizNOW------->
 
