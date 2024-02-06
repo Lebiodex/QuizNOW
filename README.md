@@ -2,8 +2,8 @@ QuizNOW<br>
 * [Ogólne informacje](#ogólne-informacje)
 * [Technologie](#technologie)
 * [Instalacja](#Instalacja)
-* [Autor](#Autor)
 * [Zakończenie](#Zakończenie)
+* [Autor](#Autor)
 
 ## Informacje ogólne
 <details>
